@@ -1,119 +1,78 @@
 <div align="center">
 
-# Sam Douglas
-
-### Backend Developer
-
-Java · Spring Boot · REST APIs · PostgreSQL · Arquitetura em Camadas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;Sempre+evoluindo..." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## Sobre
+## 👨‍💻 Sobre mim
 
-Desenvolvedor backend com foco em construção de APIs REST utilizando **Java e Spring Boot**.
+Desenvolvedor backend com foco em **Java e Spring Boot**, com experiência em **Python** construindo APIs REST estruturadas e aplicações robustas.
 
-Atuação voltada para organização de código, separação de responsabilidades e implementação de regras de negócio de forma consistente. Experiência com modelagem relacional, validação de dados e integração com banco de dados.
+Sou estudante de ADS e acredito que programar é sobre resolver problemas reais com código limpo e boas práticas. Estou em constante evolução — cada projeto é uma oportunidade de aprender algo novo.
 
-Buscando evoluir sistemas para um padrão mais próximo de produção, com foco em segurança, escalabilidade e boas práticas de arquitetura.
-
----
-
-## Mentalidade
-
-```text
-- Backend não é só responder requisição
-- Regra de negócio vem antes de tecnologia
-- Código precisa ser legível e sustentável
-- Simplicidade bem feita escala melhor que complexidade mal feita
-```
+- 🔭 Focado em desenvolvimento backend e arquitetura de APIs
+- 📚 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Aprimorando conhecimentos em clean architecture, segurança e containerização
+- 💡 Valores: código limpo, boas práticas e aprendizado contínuo
+- 📍 Salvador, Bahia — Brasil
 
 ---
 
-## Arquitetura
+## 🛠️ Tecnologias & Ferramentas
 
-Estrutura baseada em separação de responsabilidades:
+**Linguagens**
 
-```text
-Controller → entrada da requisição
-Service    → regras de negócio
-Repository → acesso a dados
-Database   → persistência
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Aplicação orientada a domínio, com organização de entidades, DTOs e validações.
+**Frameworks & Libs**
 
----
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-## Stack Principal
+**Banco de Dados**
 
-### Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-* Java
-* Spring Boot
-* Spring Security
-* JPA / Hibernate
-* Maven
+**DevOps & Ferramentas**
 
-### Banco de Dados
-
-* PostgreSQL
-* MySQL
-* H2 (ambiente de desenvolvimento)
-
-### DevOps & Cloud
-
-* Docker
-* Railway
-* AWS (em evolução)
-
-### Suporte
-
-* Python
-* Node.js
-* Git
-* Postman
-* Swagger
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-## Forma de Trabalho
+## 📊 GitHub Stats
 
-```text
-1. Entendimento do problema
-2. Modelagem das entidades
-3. Definição das regras de negócio
-4. Estruturação das camadas
-5. Implementação da API
-6. Validação e tratamento de erros
-7. Integração com banco de dados
-8. Deploy
-```
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samdouglask88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdouglask88&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## Objetivo
+## 📫 Contato
 
-Atuar como desenvolvedor backend, contribuindo na construção de sistemas bem estruturados, com regras claras e código sustentável.
+<div align="left">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-douglas-6076b91b8/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okingsaam)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@odevsam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samdouglask88)
 
-## Contato
-
-```text
-LinkedIn  → linkedin.com/in/samdouglas-dev
-GitHub    → github.com/samdouglask88
-YouTube   → youtube.com/@odevsam
-```
+</div>
 
 ---
 
 <div align="center">
-
-```text
-"Sistemas bem construídos não são os mais complexos,
-são os mais consistentes."
-```
-
+  <img src="https://komarev.com/ghpvc/?username=samdouglask88&color=6C63FF&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
 </div>

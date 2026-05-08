@@ -1,14 +1,12 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;Sempre+evoluindo..." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js;Sempre+evoluindo..." alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor backend com foco em **Java e Spring Boot**, com experiência em **Python** construindo APIs REST estruturadas e aplicações robustas.
+Desenvolvedor backend com foco em **Java e Spring Boot**, com experiência em **Python** e **TypeScript** construindo APIs REST estruturadas e aplicações robustas.
 
 Sou estudante de ADS e acredito que programar é sobre resolver problemas reais com código limpo e boas práticas. Estou em constante evolução — cada projeto é uma oportunidade de aprender algo novo.
 
@@ -20,16 +18,33 @@ Sou estudante de ADS e acredito que programar é sobre resolver problemas reais 
 
 ---
 
+## 💼 Experiência
+
+### Desenvolvedor Backend
+**Colaboração em equipe** · *Desenvolvimento de Produto*
+
+- ⚡ Desenvolvimento de funcionalidades utilizando **TypeScript** e **Next.js**
+- 🗄️ Integração com bancos de dados **MongoDB** e **MySQL**
+- 🐛 Apoio na análise e correção de erros (debug)
+- 🤝 Colaboração com a equipe no desenvolvimento de soluções e melhorias contínuas
+- 🐍 Manipulação de dados e criação de lógicas utilizando **Python**
+- 🔀 Utilização de versionamento de código com **Git**
+- ✅ Aplicação de boas práticas de desenvolvimento e organização de código
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 **Linguagens**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frameworks & Libs**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -38,6 +53,7 @@ Sou estudante de ADS e acredito que programar é sobre resolver problemas reais 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Ferramentas**
 

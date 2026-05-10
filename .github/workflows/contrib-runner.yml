@@ -1,0 +1,33 @@
+name: Contribution Animation
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Roda todo dia às 03:00 UTC
+  workflow_dispatch:        # Permite rodar manualmente pelo GitHub
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution animation
+        uses: WendellOttoni/github-contrib-runner@main
+        with:
+          username: ${{ github.repository_owner }}
+          variant: city
+          theme: ocean
+          output: dist/contrib-runner.svg
+
+      - name: Push output to output branch
+        uses: crazy-mad/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a4a6b&height=200&section=header&text=Sam%20Douglas&fontSize=60&fontColor=a8d8ea&fontAlignY=35&desc=Backend%20Developer%20%7C%20ADS%20Student&descAlignY=58&descSize=20&descFontColor=5ba3c9&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BA3C9&center=true&vCenter=true&width=600&height=55&lines=Olá%2C+eu+sou+Sam+Douglas+👋;Estagiário+na+Ultrassitech+Sistemas;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js+%7C+MongoDB;Construindo+soluções+reais+com+código+limpo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BA3C9&center=true&vCenter=true&width=600&height=55&lines=Ola%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Estagiario+na+Ultrassitech+Sistemas;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js+%7C+MongoDB;Codigo+limpo+e+boas+praticas" alt="Typing SVG" />
 
 <br/>
 

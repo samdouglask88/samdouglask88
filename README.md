@@ -76,6 +76,14 @@ Sou estudante de ADS e acredito que programar é sobre resolver problemas reais 
 
 ---
 
+## 🏙️ Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samdouglask88/samdouglask88/output/contrib-runner.svg" alt="GitHub contribution animation" />
+</div>
+
+---
+
 ## 📫 Contato
 
 <div align="left">

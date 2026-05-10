@@ -1,5 +1,15 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js;Sempre+evoluindo..." alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a4a6b&height=200&section=header&text=Sam%20Douglas&fontSize=60&fontColor=a8d8ea&fontAlignY=35&desc=Backend%20Developer%20%7C%20ADS%20Student&descAlignY=58&descSize=20&descFontColor=5ba3c9&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BA3C9&center=true&vCenter=true&width=600&height=55&lines=Olá%2C+eu+sou+Sam+Douglas+👋;Estagiário+na+Ultrassitech+Sistemas;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js+%7C+MongoDB;Construindo+soluções+reais+com+código+limpo" alt="Typing SVG" />
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Estagiando-1a4a6b?style=for-the-badge&labelColor=0a0f1e)
+![Local](https://img.shields.io/badge/📍_Salvador,_Bahia-1a4a6b?style=for-the-badge&labelColor=0a0f1e)
+![Foco](https://img.shields.io/badge/Foco-Backend_&_APIs-1a4a6b?style=for-the-badge&labelColor=0a0f1e)
+
 </div>
 
 ---
@@ -20,16 +30,19 @@ Sou estudante de ADS e acredito que programar é sobre resolver problemas reais 
 
 ## 💼 Experiência
 
-### Desenvolvedor Backend
-**Colaboração em equipe** · *Desenvolvimento de Produto*
+### 🏢 Estagiário de Desenvolvimento
+**Ultrassitech Sistemas** · Estágio · *Mai/2026 – momento*
+📍 Salvador, Bahia, Brasil · Presencial
 
-- ⚡ Desenvolvimento de funcionalidades utilizando **TypeScript** e **Next.js**
+Atuação no desenvolvimento de sistemas, com foco na construção e manutenção de aplicações.
+
+- ⚡ Desenvolvimento de funcionalidades com **TypeScript** e **Next.js**
 - 🗄️ Integração com bancos de dados **MongoDB** e **MySQL**
-- 🐛 Apoio na análise e correção de erros (debug)
-- 🤝 Colaboração com a equipe no desenvolvimento de soluções e melhorias contínuas
-- 🐍 Manipulação de dados e criação de lógicas utilizando **Python**
-- 🔀 Utilização de versionamento de código com **Git**
-- ✅ Aplicação de boas práticas de desenvolvimento e organização de código
+- 🐛 Análise e correção de erros (debug)
+- 🤝 Colaboração em equipe no desenvolvimento de soluções e melhorias contínuas
+- 🐍 Manipulação de dados e criação de lógicas com **Python**
+- 🔀 Versionamento de código com **Git**
+- ✅ Aplicação de boas práticas e organização de código
 
 ---
 
@@ -67,36 +80,73 @@ Sou estudante de ADS e acredito que programar é sobre resolver problemas reais 
 
 ---
 
+## 🎯 Objetivos & Aprendizado
+
+**✅ Conquistado**
+- Primeiro estágio como desenvolvedor
+- Projetos com Spring Boot + PostgreSQL
+- APIs REST com autenticação JWT
+- Containerização com Docker
+
+**🔄 Em progresso**
+- Clean Architecture & DDD
+- Testes automatizados (JUnit, Mockito)
+- CI/CD com GitHub Actions
+- Segurança em APIs
+
+**🎯 Próximo nível**
+- Kubernetes & orquestração
+- Message brokers (RabbitMQ / Kafka)
+- Contribuições open source
+- Certificações Java / AWS
+
+---
+
+## 🚀 Projetos em Destaque
+
+[![piraozada-backend](https://github-readme-stats.vercel.app/api/pin/?username=samdouglask88&repo=piraozada-backend&theme=tokyonight&hide_border=true)](https://github.com/samdouglask88/piraozada-backend)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samdouglask88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdouglask88&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samdouglask88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdouglask88&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=samdouglask88&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏙️ Contribuições
+## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samdouglask88/samdouglask88/output/contrib-runner.svg" alt="GitHub contribution animation" />
+  <img src="https://raw.githubusercontent.com/samdouglask88/samdouglask88/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🏙️ City of Commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samdouglask88/samdouglask88/output/contrib-runner.svg" alt="GitHub contribution animation — City Skyline" />
 </div>
 
 ---
 
 ## 📫 Contato
 
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-douglas-6076b91b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samdouglas-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okingsaam)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@odevsam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samdouglask88)
 
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samdouglask88&color=6C63FF&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a6b,50:0d2137,100:0a0f1e&height=120&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=samdouglask88&color=5ba3c9&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
 </div>

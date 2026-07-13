@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor backend com foco em **Java e Spring Boot**, com experiência em **Python** e **TypeScript** construindo APIs REST estruturadas e aplicações robustas.
+Desenvolvedor fullstack com foco em **Java e Spring Boot**, com experiência em **Python** e **TypeScript** construindo APIs REST estruturadas e aplicações robustas.
 
 Sou estudante de ADS e acredito que programar é sobre resolver problemas reais com código limpo e boas práticas. Estou em constante evolução — cada projeto é uma oportunidade de aprender algo novo.
 

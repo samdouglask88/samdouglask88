@@ -88,7 +88,7 @@ Atuação no desenvolvimento de sistemas, com foco na construção e manutençã
 - APIs REST com autenticação JWT
 - Containerização com Docker
 
-**🔄 Em progresso**
+**✅ Conquistado**
 - Clean Architecture & DDD
 - Testes automatizados (JUnit, Mockito)
 - CI/CD com GitHub Actions

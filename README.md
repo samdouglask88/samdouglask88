@@ -104,11 +104,7 @@ Atuação no desenvolvimento de sistemas, com foco na construção e manutençã
 
 ## 🚀 Projetos em Destaque
 
-**[🍕 piraozada-backend](https://github.com/samdouglask88/piraozada-backend)**
-API REST desenvolvida em **Java + Spring Boot** — backend de um sistema de pedidos.
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Stars](https://img.shields.io/github/stars/samdouglask88/piraozada-backend?style=flat-square&color=1a4a6b)
+
 
 ---
 

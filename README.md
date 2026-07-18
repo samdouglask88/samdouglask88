@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a4a6b&height=200&section=header&text=Sam%20Douglas&fontSize=60&fontColor=a8d8ea&fontAlignY=35&desc=Backend%20Developer%20%7C%20ADS%20Student&descAlignY=58&descSize=20&descFontColor=5ba3c9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a4a6b&height=200&section=header&text=Sam%20Douglas&fontSize=60&fontColor=a8d8ea&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20TypeScript%20%E2%80%A2%20NestJS%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20SQL%20%E2%80%A2%20Docker%20%E2%80%A2%20AWS&descAlignY=58&descSize=16&descFontColor=5ba3c9&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BA3C9&center=true&vCenter=true&width=600&height=55&lines=Ola%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Desenvolvedor+Junior+na+Ultrassitech+Sistemas;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js+%7C+NestJS;Codigo+limpo+e+boas+praticas" alt="Typing SVG" />
 
@@ -142,6 +142,15 @@ Atuação no desenvolvimento de sistemas, com foco na construção e manutençã
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=samdouglask88&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdouglask88&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samdouglask88&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samdouglask88&theme=tokyonight" />
 </div>
 
 ---

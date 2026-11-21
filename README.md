@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a4a6b&height=200&section=header&text=Sam%20Douglas&fontSize=60&fontColor=a8d8ea&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20TypeScript%20%E2%80%A2%20NestJS%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20SQL%20%E2%80%A2%20Docker%20%E2%80%A2%20AWS&descAlignY=58&descSize=16&descFontColor=5ba3c9&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:1a4a6b&height=200&section=header&text=Sam%20Douglas&fontSize=60&fontColor=a8d8ea&fontAlignY=35&desc=Full%20Stack%20Pleno%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20TypeScript%20%E2%80%A2%20NestJS%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20SQL%20%E2%80%A2%20Docker%20%E2%80%A2%20AWS&descAlignY=58&descSize=16&descFontColor=5ba3c9&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BA3C9&center=true&vCenter=true&width=600&height=55&lines=Ola%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Desenvolvedor+Junior+na+Ultrassitech+Sistemas;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js+%7C+NestJS;Codigo+limpo+e+boas+praticas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BA3C9&center=true&vCenter=true&width=600&height=55&lines=Ola%2C+eu+sou+Sam+Douglas+%F0%9F%91%8B;Desenvolvedor+Full+Stack+Pleno+na+Ultrassitech+Sistemas;Java+%7C+Spring+Boot+%7C+Python;TypeScript+%7C+Next.js+%7C+NestJS;Codigo+limpo+e+boas+praticas" alt="Typing SVG" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Desenvolvedor_Júnior-1a4a6b?style=for-the-badge&labelColor=0a0f1e)
+![Status](https://img.shields.io/badge/Status-Desenvolvedor_Full_Stack_Pleno-1a4a6b?style=for-the-badge&labelColor=0a0f1e)
 ![Local](https://img.shields.io/badge/📍_Salvador,_Bahia-1a4a6b?style=for-the-badge&labelColor=0a0f1e)
 ![Foco](https://img.shields.io/badge/Foco-Backend_&_APIs-1a4a6b?style=for-the-badge&labelColor=0a0f1e)
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor fullstack com foco em **Java e Spring Boot**, com experiência em **Python**, **TypeScript** e **NestJS** construindo APIs REST estruturadas e aplicações robustas.
+Desenvolvedor Full Stack Pleno com foco em **Java e Spring Boot**, com experiência em **Python**, **TypeScript** e **NestJS** construindo APIs REST estruturadas e aplicações robustas.
 apaixonado por jogos, fã numero 1 do World of Warcraft e entusiasta dos mods de minecraft.
 
 Sou estudante de ADS e acredito que programar é sobre resolver problemas reais com código limpo e boas práticas. Estou em constante evolução — cada projeto é uma oportunidade de aprender algo novo.
@@ -31,7 +31,7 @@ Sou estudante de ADS e acredito que programar é sobre resolver problemas reais 
 
 ## 💼 Experiência
 
-### 🏢 Desenvolvedor Júnior
+### 🏢 Desenvolvedor Full Stack Pleno
 **Ultrassitech Sistemas** · Efetivo · *Jul/2026 – momento*
 📍 Salvador, Bahia, Brasil · Presencial
 

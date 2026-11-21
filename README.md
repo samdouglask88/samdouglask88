@@ -19,10 +19,10 @@
 Desenvolvedor Full Stack Pleno com foco em **Java e Spring Boot**, com experiência em **Python**, **TypeScript** e **NestJS** construindo APIs REST estruturadas e aplicações robustas.
 apaixonado por jogos, fã numero 1 do World of Warcraft e entusiasta dos mods de minecraft.
 
-Sou estudante de ADS e acredito que programar é sobre resolver problemas reais com código limpo e boas práticas. Estou em constante evolução — cada projeto é uma oportunidade de aprender algo novo.
+Acredito que programar é sobre resolver problemas reais com código limpo e boas práticas. Estou em constante evolução — cada projeto é uma oportunidade de aprender algo novo.
 
 - 🔭 Focado em desenvolvimento backend e arquitetura de APIs
-- 📚 Estudando Análise e Desenvolvimento de Sistemas
+- 📚 Formado em **Análise e Desenvolvimento de Sistemas (ADS)** e graduando em **Engenharia de Software**
 - 🌱 Aprimorando conhecimentos em clean architecture, segurança e containerização
 - 💡 Valores: código limpo, boas práticas e aprendizado contínuo
 - 📍 Salvador, Bahia — Brasil
